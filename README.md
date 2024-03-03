@@ -5,7 +5,7 @@
     <tr>
       <td>
         <p>AVR Microcontrollers</p>
-        <img src="./.github/own_react_img.png" width="300px" height="200px" />
+        <img src="./.github/360_F_460636484_5KLRqy4CgptG7Bt4S1nY80v7tPm3e5Tm.png" width="300px" height="200px" />
         <p align="center"><a href=""><img src="./.github/github.png" width="30px" height="30px"></a>
           <br/>
           <br/>
