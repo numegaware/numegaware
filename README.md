@@ -11,7 +11,7 @@
           <br/>
           <br/>
           <a href="https://the-react-clone.netlify.app/">
-            <img src="./.github/see_project.png" width="104px" height="41px" />
+            <img src="./.github//see_more.png" width="104px" height="41px" />
           </a>
         </p> 
       </td>
@@ -21,7 +21,7 @@
         <img src="./.github/googol+googolplex.png" width="300px" height="200px" />
         <p align="center"><a href="https://github.com/numegaware/googol-calculator"><img src="./.github/git.png" width="30px" height="30px"></a><br><br>
           <a href="">
-            <img src="./.github/see_project.png" width="104px" height="41px" />
+            <img src="./.github/see_more.png" width="104px" height="41px" />
           </a>
         </p>
       </td>
