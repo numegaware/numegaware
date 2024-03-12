@@ -16,7 +16,7 @@
         </p> 
       </td>
       <td>
-        <p>The Googolplex Calculator</p>
+        <p>Googolplex Calculator</p>
         <p>lang: MASM32 Assembler</p>
         <img src="./.github/googol+googolplex.png" width="300px" height="200px" />
         <p align="center"><a href="https://github.com/numegaware/googol-calculator"><img src="./.github/git.png" width="30px" height="30px"></a><br><br>
